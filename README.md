@@ -38,7 +38,7 @@ Kullanıcı uygulama penceresi üzerindeyken meydana gelen `KeyDown` ve `KeyUp` 
 ## Kurulum ve Çalıştırma Adımları
 1. Projeyi klonlayın veya indirin:
    ```bash
-   git clone https://github.com/kullaniciadi/YMH219-KeyEventLogger.git
+   git clone https://github.com/Sudemc/YMH219-KeyEventLogger.git
    ```
 2. `YMH219-KeyEventLogger.csproj` dosyasını Visual Studio ile açın.
 3. Çözümü derleyin ve çalıştırın (`F5` veya terminalden `dotnet run`).
